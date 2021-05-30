@@ -1,1 +1,3 @@
 # VX_BIGDATA_LGB_BASELINE
+
+该LGB单模成绩为 0.648+
